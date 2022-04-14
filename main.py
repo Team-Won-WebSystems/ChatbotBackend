@@ -63,7 +63,7 @@ def chatBubble(message):
 
 
 # Title below image
-st.title("COnstruct.Site Support")
+st.title("Construct.Site Support")
 
 # Subheader below title
 
