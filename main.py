@@ -63,13 +63,13 @@ def chatBubble(message):
 
 
 # Title below image
-st.title("Construct.Site Support")
+st.title("Construction.Site Support")
 
 # Subheader below title
 
 
 # Initalize button
-start = st.button("Chat")
+start = True
 with st.container():
 # If start then add to count state var, is a count so that when the page updates, the chat still appears
     if start:
